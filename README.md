@@ -8,5 +8,5 @@ Integrate GraphQL substituting Redux to Clothing store application
 - Apollo
 - gql
 - queries wit parameters
-- Apollo cache
+- Apollo cache -> local store
 - Resolvers
